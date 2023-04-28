@@ -30,7 +30,7 @@
         .row [class^="col-"]
          {
             flex: 1 0 auto;
-            padding: 0 15px;
+/*             padding: 0 15px; */
         }
         .row .col-1{flex-basis: 8.33%; max-width: 8.33%;}
         .row .col-2{flex-basis: 16.66%; max-width: 16.66%;}
